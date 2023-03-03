@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch01/MyInfoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch01/Sorry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch01/Welcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/AddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/AssignmentIncDecOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/CircleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/CoffeePrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/Grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/GradingSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/MultipleOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/RockScissorsPaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/ScannerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/SuccessOrFail.java" afterDir="false" />
+    <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 예제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +27,19 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b651bd52-03c9-4763-9317-25985554b784" />
+        <option name="url" value="https://github.com/heejinkong/JavaStudying.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -120,7 +116,8 @@
       <workItem from="1677201899011" duration="3557000" />
       <workItem from="1677400367270" duration="599000" />
       <workItem from="1677462197815" duration="4306000" />
-      <workItem from="1677825753215" duration="11381000" />
+      <workItem from="1677825753215" duration="12016000" />
+      <workItem from="1677842548401" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="별찍기 예제&#10;&#10;별찍기 예제">
       <created>1677467699129</created>
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677469903894</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2장 예제제">
+      <created>1677842448828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677842448828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +172,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="별찍기 예제&#10;&#10;별찍기 예제" />
     <MESSAGE value="1~4장 동영상 실습" />
-    <option name="LAST_COMMIT_MESSAGE" value="1~4장 동영상 실습" />
+    <MESSAGE value="2장 예제" />
+    <MESSAGE value="2장 예제제" />
+    <option name="LAST_COMMIT_MESSAGE" value="2장 예제제" />
   </component>
 </project>
