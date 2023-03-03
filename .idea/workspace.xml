@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="별찍기 예제&#10;&#10;별찍기 예제">
+    <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch01/MyInfoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch01/Sorry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch01/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/AddEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/AssignmentIncDecOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/CircleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/CoffeePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/Grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/GradingSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/MultipleOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/RockScissorsPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/SuccessOrFail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +68,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Circle">
+  <component name="RunManager">
     <configuration name="Circle" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_kity.Circle" />
       <module name="JavaCoding" />
@@ -102,7 +119,8 @@
       <workItem from="1677051964166" duration="3186000" />
       <workItem from="1677201899011" duration="3557000" />
       <workItem from="1677400367270" duration="599000" />
-      <workItem from="1677462197815" duration="1706000" />
+      <workItem from="1677462197815" duration="4306000" />
+      <workItem from="1677825753215" duration="11381000" />
     </task>
     <task id="LOCAL-00001" summary="별찍기 예제&#10;&#10;별찍기 예제">
       <created>1677467699129</created>
@@ -111,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677467699129</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1~4장 동영상 실습">
+      <created>1677469903894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677469903894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="별찍기 예제&#10;&#10;별찍기 예제" />
-    <option name="LAST_COMMIT_MESSAGE" value="별찍기 예제&#10;&#10;별찍기 예제" />
+    <MESSAGE value="1~4장 동영상 실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="1~4장 동영상 실습" />
   </component>
 </project>
