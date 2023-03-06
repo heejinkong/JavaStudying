@@ -5,21 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch02/SeasonSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/ArrayAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/BreakExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/ContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/DoWhileSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/ForSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/WhileSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/foreachEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/ArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/CardUpAndDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/DevideByZeroHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/InputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/NumException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/ReturnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/ScoreAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/SkewedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/SkewedArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/TenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/practice/SkewedArray3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch03/practice/Star3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/foreachEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_kity/ch03/foreachEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,9 @@
       <workItem from="1675306355831" duration="599000" />
       <workItem from="1675397374919" duration="724000" />
       <workItem from="1677907600459" duration="12732000" />
-      <workItem from="1677991943456" duration="13369000" />
+      <workItem from="1677991943456" duration="13666000" />
+      <workItem from="1678066801749" duration="2467000" />
+      <workItem from="1678069597663" duration="10553000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
