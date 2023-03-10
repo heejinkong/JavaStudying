@@ -1,6 +1,7 @@
 package Java_kity.ch04;
 
 public class ArrayPassingEx {
+
     static void replaceSpace(char a[]) { // 배열 a의 공백 문자를 ','로 변경
         for(int i=0; i<a.length; i++)
             if(a[i] ==' ') //공백 문자를 ','로 변경
@@ -14,6 +15,7 @@ public class ArrayPassingEx {
     }
 
     public static void main(String[] args) {
+
         char c[] = {'T','h','i','s',' ','i','s',' ','a',' ','p','e','n','c','i','l','.'};
         printCharArray(c); // 원래 배열 원소 출력
         replaceSpace(c); // 공백 문자 바꾸기
