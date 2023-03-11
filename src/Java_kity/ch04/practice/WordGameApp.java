@@ -11,43 +11,19 @@ class Player {
             Scanner scanner = new Scanner(System.in);
             name = scanner.next();
     }
-    static void checkSuccess(String w) { // 끝말잇기 성공여부, 게림 진행여부 판별
-        int lastIndex = w.length(); // 마지막 문자에 대한 인덱스
-        char lastChar = w.charAt(lastIndex); // 마지막 문자
-        char firstChar = w.charAt(0); //첫 번째 문자
+    static Boolean checkSuccess(String w) { // 끝말잇기 성공여부, 게림 진행여부 판별
 
-        while (lastChar != firstChar) {
-            break;
+        String startWord = "아버지";
+        int lastIndex = startWord.length() - 1; // 마지막 문자에 대한 인덱스
+        char lastChar = startWord.charAt(lastIndex); // 마지막 문자
+        char firstChar = startWord.charAt(0); //첫 번째 문자
+        if(lastChar != w.charAt(0)){
+            return false;
         }
-
+        return true;
     }
 }
 public class WordGameApp {
-
-//    public static void main(String[] args) {
-//        System.out.print("참가인원 >> ");
-//        Scanner s = new Scanner(System.in);
-//        int num = s.nextInt();
-//        String [] name = new String[num];
-//        for(int i=0; i<num; i++) {
-//            System.out.print("참가자의 이름을 입력>>");
-//            String n = s.next();
-//            name[i] = n;
-//        }
-//        for(int i=0; i<num; i++) {
-//            System.out.print(name[i] + ">>");
-//            String word = s.next();
-//            int lastIndex = word.length() -1;
-//            char lastChar = word.charAt(lastIndex);
-//            char firstChar = word.charAt(0);
-//
-//            while (lastChar !=)
-//        }
-
-
-
-
-
     WordGameApp() { // 생성자
 
     }
@@ -63,10 +39,17 @@ public class WordGameApp {
             s[i] = Player.name;
         }
         System.out.println("시작하는 단어는 아버지입니다.");
-        for(int i=0; i< s.length; i++) {
-            System.out.print(s[i] + ">>");
-            String word = scanner.next();
+        int i = 0;
+        while (true){
+                System.out.print(s[i] + ">>");
+                String word = scanner.next();
+                if (!Player.checkSuccess(word)) {
+                    System.out.println(s[i] +"이 졌습니다.");
+                    break;
+                }
+                i++;
         }
+
     }
     public static void main(String[] args) {
         System.out.println("끝말잇기 게임을 시작합니다....");
