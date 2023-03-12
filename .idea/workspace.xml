@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch04/practice/CircleManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch04/practice/InformationRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch04/practice/MonthSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch04/practice/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch04/practice/StaticEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/CircleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_kity/ch04/practice/CircleManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +89,8 @@
       <workItem from="1678339072466" duration="595000" />
       <workItem from="1678341411907" duration="1932000" />
       <workItem from="1678412101745" duration="12049000" />
-      <workItem from="1678512924055" duration="10859000" />
+      <workItem from="1678512924055" duration="11724000" />
+      <workItem from="1678597662700" duration="13655000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
