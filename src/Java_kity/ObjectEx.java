@@ -10,6 +10,14 @@ class Point5 { // 사실은 Object를 상속받고 있음
     public String toString() { // 오버라이딩
         return "(" + x+ "," +y+")";
     }
+    public boolean equals(Object obj) {
+        Point5 p = (Point5)obj; // 다운캐스팅
+        if(x == p.x && y == p.y)
+            return true;
+        return false;
+    }
+
+
 }
 
 public class ObjectEx {
@@ -23,8 +31,21 @@ public class ObjectEx {
     }
     public static void main(String[] args) {
         Point5 p = new Point5(2,3);
-        print(p);
+//        print(p);
 //        System.out.println(p); // p -> p.toString()
 //        print(new String("hello"));
+        Point5 a =new Point5(2,3);
+        Point5 b =new Point5(2,3);
+        Point5 c = a;
+
+        if(a == b) {
+            System.out.println("a==b");
+        }
+        if(a == c) {
+            System.out.println("a==c");
+        }
+        if(a.equals(b)){
+            System.out.println("a equals b");
+        }
     }
 }
