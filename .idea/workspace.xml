@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/MyCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_kity/St.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch06/AutoBoxingUnBoxingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch06/MathEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch06/StringBufferEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch06/StringEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch06/StringTokenizer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch06/WrapperEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ObjectEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_kity/ObjectEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +109,7 @@
       <workItem from="1678797599497" duration="617000" />
       <workItem from="1678864345963" duration="9546000" />
       <workItem from="1678935918544" duration="785000" />
-      <workItem from="1679017995165" duration="15046000" />
+      <workItem from="1679017995165" duration="18847000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
