@@ -34,18 +34,25 @@ public class ObjectEx {
 //        print(p);
 //        System.out.println(p); // p -> p.toString()
 //        print(new String("hello"));
-        Point5 a =new Point5(2,3);
-        Point5 b =new Point5(2,3);
-        Point5 c = a;
+//        Point5 a =new Point5(2,3);
+//        Point5 b =new Point5(2,3);
+//        Point5 c = a;
+//
+//        if(a == b) {
+//            System.out.println("a==b");
+//        }
+//        if(a == c) {
+//            System.out.println("a==c");
+//        }
+//        if(a.equals(b)){
+//            System.out.println("a equals b");
+//        }
 
-        if(a == b) {
-            System.out.println("a==b");
-        }
-        if(a == c) {
-            System.out.println("a==c");
-        }
-        if(a.equals(b)){
-            System.out.println("a equals b");
-        }
+        int n = 10;
+
+        Integer ten = Integer.valueOf(10); // 박싱
+        int x = ten.intValue(); // 언박싱
+
+        System.out.println(x);
     }
 }
