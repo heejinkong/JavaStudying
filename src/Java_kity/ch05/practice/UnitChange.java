@@ -1,7 +1,8 @@
 package Java_kity.ch05.practice;
+
 import java.util.Scanner;
 
-abstract class Converter {
+abstract class Converter2 {
     abstract protected double convert(double src); // 추상 메소드
     abstract protected String getSrcString(); // 추상 메소드
     abstract protected String getDestString(); // 추상 메소드
@@ -16,11 +17,13 @@ abstract class Converter {
         scanner.close();
     }
 }
-class Won2Dollar extends Converter {
+
+class Km2Mile extends Converter {
     protected double ratio;
-    public Won2Dollar(int ratio){
+    public Km2Mile(double ratio) {
         this.ratio = ratio;
     }
+
     @Override
     protected double convert(double src) {
         return src/ratio;
@@ -28,18 +31,18 @@ class Won2Dollar extends Converter {
 
     @Override
     protected String getSrcString() {
-        return "원";
+        return "Km";
     }
 
     @Override
     protected String getDestString() {
-        return "달러";
+        return "mile";
     }
 }
 
-public class MoneyChange {
+public class UnitChange {
     public static void main(String[] args) {
-        Won2Dollar toDollar = new Won2Dollar(1200); // 1달러는 1200원
-        toDollar.run();
+        Km2Mile toMile = new Km2Mile(1.6);
+        toMile.run();
     }
 }
