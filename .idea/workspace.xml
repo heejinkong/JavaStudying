@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
+      <change afterPath="$PROJECT_DIR$/src/Java_kity/ch05/practice/Calculation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +109,8 @@
       <workItem from="1679205622628" duration="598000" />
       <workItem from="1679233320581" duration="115000" />
       <workItem from="1679278069792" duration="588000" />
+      <workItem from="1679316583486" duration="744000" />
+      <workItem from="1679384085156" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
