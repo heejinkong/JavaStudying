@@ -3,6 +3,13 @@ package Java_kity;
 import java.util.Vector;
 
 public class VectorEx {
+    public static int makeSum(Vector<Integer> v) {
+        int sum = 0;
+        for(int i=0; i<v.size(); i++) {
+            sum += v.elementAt(i);
+        }
+        return sum;
+    }
     public static void main(String[] args) {
         Vector<Integer> v = new Vector<Integer>(8);
         v.add(5); // 자동 박싱. 5 -> Integer.valueof(5)
@@ -22,10 +29,6 @@ public class VectorEx {
         }
         System.out.println();
 
-        int sum = 0;
-        for(int i=0; i<v.size(); i++) {
-            sum += v.elementAt(i);
-        }
-        System.out.println("합은 " + sum);
+        System.out.println("합은 " + makeSum(v));
     }
 }
