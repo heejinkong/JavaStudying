@@ -1,5 +1,6 @@
 package Java_kity;
 
+import java.util.Iterator;
 import java.util.Vector;
 
 public class VectorEx {
@@ -21,11 +22,17 @@ public class VectorEx {
         System.out.println("들어가 있는 개수는 " + v.size());
         System.out.println("용량은 " + v.capacity());
 
-        for (int i = 0; i<v.size(); i++) {
-//            Integer n =v.get(i);
-//            int m = n.intValue();
-//            int m = v.get(i); // 자동 언박싱. v.get(i) -> v.get(i).intValue()
-            System.out.print(v.get(i) + " ");
+//        for (int i = 0; i<v.size(); i++) {
+////            Integer n =v.get(i);
+////            int m = n.intValue();
+////            int m = v.get(i); // 자동 언박싱. v.get(i) -> v.get(i).intValue()
+//            System.out.print(v.get(i) + " ");
+//        }
+        // Iterator를 이용하여 출력
+        Iterator<Integer> it = v.iterator();
+        while(it.hasNext()) {
+            int n = it.next(); // 자동 언박싱
+            System.out.println(n);
         }
         System.out.println();
 
