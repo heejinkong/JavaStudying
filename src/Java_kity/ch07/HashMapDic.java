@@ -18,7 +18,10 @@ public class HashMapDic {
             if(word.equals("exit"))
                 break;
             String kor = dic.get(word);
-            System.out.println(word + ":" + kor);
+            if(kor == null)
+                System.out.println(word + "는 없는 단어입니다");
+            else
+                System.out.println(word + ":" + kor);
         }
         System.out.println("종료합니다......");
     }
