@@ -23,7 +23,7 @@ public class Country {
 
             if(name.equals("그만"))
                 break;
-            if(c.get(name) == null)
+            else if(c.get(name) == null)
                 System.out.println(name + "은 없습니다.");
             else
                 System.out.println(name + "의 인구는 "+ c.get(name));
