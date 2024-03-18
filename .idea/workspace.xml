@@ -5,152 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/ex01/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ArrayListEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/CircleArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ColorPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/DivideByZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/GraphicEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/HashEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/My2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/MyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/MyCal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/NonArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ObjectEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/PackageEx/app/GoodCalc2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/PackageEx/lib/Calculator2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/PointVectorEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ScannerEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/St.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/VectorEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch01/MyInfoApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch01/Sorry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch01/Welcome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/AddEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/ArithmeticOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/AssignmentIncDecOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Calculation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/CircleArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/ClapGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/CoffeePrice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Grading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/GradingSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/InCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/LogicalOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/MiddleNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/MoneyExchange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/MultipleOfThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/NestedIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/NumberCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Price.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Rectangle2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/RockScissorsPaper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/RockScissorsPaperSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/ScannerEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Season.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/SeasonSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/SuccessOrFail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch02/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/ArrayAccess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/ArrayException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/ArrayLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/BreakExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/CardUpAndDown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/ContinueExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/DevideByZeroHandling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/DoWhileSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/ForSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/InputException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/Multiple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/NestedLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/NumException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/ReturnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/ScoreAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/SkewedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/SkewedArray2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/Star.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/TenArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/WhileSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/foreachEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/Alphabet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/Array2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/Array2DZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/ArrayAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/ArrayExchange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/ArrayMultiple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/ArrayRandom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/ArraySubject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/ClapGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/GameRSP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/Multiply.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/SkewedArray3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch03/practice/Star3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/ArrayPassingEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/ArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/BookArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/CalcEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/CircleArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/Ex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/GarbageEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/HumanArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/RectApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/StaticCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/StaticMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/CircleManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/GradeAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/InformationRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/InformationSong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/InformationTV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/MonthSchedule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/PhoneBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/StaticEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch04/practice/WordGameApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/CastingEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/ColorPointEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/GoodCalc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/InheritanceEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/InstanceOfEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/InterfaceEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/Overriding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/Sample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/Calculation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/DictionaryApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/GameObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/InfoPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/InfoPoint2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/InfoPoint3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/InfoPoint4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/MoneyChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/SuperInfoTV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch05/practice/UnitChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/AutoBoxingUnBoxingEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/MathEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/RectEqualsEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/StringBufferEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/StringEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/StringTokenizer2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/WrapperEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/practice/SameCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/practice/SamePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/practice/TimeCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch06/practice/TimerGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch07/HashMapDic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch07/HashMapScoreEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch07/practice/ArrayGrade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch07/practice/Country.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch07/practice/Max.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch07/practice/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_kity/ch07/practice/VecterAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/ex03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/ex04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/ex05.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloJava2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +66,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Comment.executor": "Run",
+    "Application.HelloJava.executor": "Run",
+    "Application.HelloJava2.executor": "Run",
+    "Application.Var1.executor": "Run",
+    "Application.Var2.executor": "Run",
+    "Application.Var3.executor": "Run",
+    "Application.Var5.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -223,13 +95,59 @@
       <recent name="Java_kity.ch05" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.main" />
+  <component name="RunManager" selected="Application.Var5">
+    <configuration name="Comment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comment" />
+      <module name="JavaCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Var1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Var1" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex01.*" />
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Var2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Var2" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Var3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Var3" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Var5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Var5" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,7 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Var5" />
+        <item itemvalue="Application.Var3" />
+        <item itemvalue="Application.Var2" />
+        <item itemvalue="Application.Var1" />
+        <item itemvalue="Application.Comment" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +227,7 @@
       <workItem from="1680485465970" duration="598000" />
       <workItem from="1680517106750" duration="732000" />
       <workItem from="1680528502652" duration="1642000" />
-      <workItem from="1710570245479" duration="111000" />
+      <workItem from="1710570245479" duration="4973000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
