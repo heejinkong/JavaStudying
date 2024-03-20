@@ -5,27 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/ForEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/ForEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/NestedEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/WhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,8 +118,15 @@
     "Application.Scanner2.executor": "Run",
     "Application.Scanner3.executor": "Run",
     "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx10.executor": "Run",
     "Application.ScannerEx2.executor": "Run",
     "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
+    "Application.ScannerEx6.executor": "Run",
+    "Application.ScannerEx7.executor": "Run",
+    "Application.ScannerEx8.executor": "Run",
+    "Application.ScannerEx9.executor": "Run",
     "Application.ScannerWhile1.executor": "Run",
     "Application.ScannerWhile2.executor": "Run",
     "Application.ScannerWhile3.executor": "Run",
@@ -188,9 +181,9 @@
       <recent name="loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerEx3">
-    <configuration name="ScannerEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx1" />
+  <component name="RunManager" selected="Application.ScannerEx10">
+    <configuration name="ScannerEx10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx10" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -202,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx2" />
+    <configuration name="ScannerEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx6" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -215,8 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx3" />
+    <configuration name="ScannerEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx7" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -228,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.ScannerWhile2" />
+    <configuration name="ScannerEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx8" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="scanner.scannerEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhile3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.ScannerWhile3" />
+    <configuration name="ScannerEx9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx9" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="scanner.scannerEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerEx3" />
-        <item itemvalue="Application.ScannerEx2" />
-        <item itemvalue="Application.ScannerEx1" />
-        <item itemvalue="Application.ScannerWhile3" />
-        <item itemvalue="Application.ScannerWhile2" />
+        <item itemvalue="Application.ScannerEx10" />
+        <item itemvalue="Application.ScannerEx9" />
+        <item itemvalue="Application.ScannerEx8" />
+        <item itemvalue="Application.ScannerEx7" />
+        <item itemvalue="Application.ScannerEx6" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +321,7 @@
       <workItem from="1680528502652" duration="1642000" />
       <workItem from="1710570245479" duration="4973000" />
       <workItem from="1710734355462" duration="20736000" />
-      <workItem from="1710903893630" duration="10951000" />
+      <workItem from="1710903893630" duration="18397000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
