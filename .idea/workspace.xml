@@ -5,62 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/condEx/CondEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/condEx/CondEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/condEx/CondEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/condEx/CondEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/condEx/CondEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/condEx/CondEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/condEx/CondEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/ForEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/WhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/WhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Assign1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Ex/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Ex/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Ex/OperationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Logical1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Logical2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/VarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/VarEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/VarEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/ForEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/ForEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/NestedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/loopEx/WhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +84,10 @@
     "Application.Break1.executor": "Run",
     "Application.Break2.executor": "Run",
     "Application.Break3.executor": "Run",
+    "Application.Casting1.executor": "Run",
+    "Application.Casting2.executor": "Run",
+    "Application.Casting3.executor": "Run",
+    "Application.Casting4.executor": "Run",
     "Application.Comment.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
@@ -136,6 +106,8 @@
     "Application.For2.executor": "Run",
     "Application.ForEx1.executor": "Run",
     "Application.ForEx2.executor": "Run",
+    "Application.ForEx3.executor": "Run",
+    "Application.ForEx4.executor": "Run",
     "Application.HelloJava.executor": "Run",
     "Application.HelloJava2.executor": "Run",
     "Application.If1.executor": "Run",
@@ -146,6 +118,7 @@
     "Application.Logical1.executor": "Run",
     "Application.Logical2.executor": "Run",
     "Application.Nested1.executor": "Run",
+    "Application.NestedEx2.executor": "Run",
     "Application.OperationEx1.executor": "Run",
     "Application.OperationEx2.executor": "Run",
     "Application.OperationEx3.executor": "Run",
@@ -155,6 +128,19 @@
     "Application.Operator4.executor": "Run",
     "Application.OperatorAdd1.executor": "Run",
     "Application.OperatorAdd2.executor": "Run",
+    "Application.Scanner1.executor": "Run",
+    "Application.Scanner2.executor": "Run",
+    "Application.Scanner3.executor": "Run",
+    "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx2.executor": "Run",
+    "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerWhile1.executor": "Run",
+    "Application.ScannerWhile2.executor": "Run",
+    "Application.ScannerWhile3.executor": "Run",
+    "Application.Scope1.executor": "Run",
+    "Application.Scope2.executor": "Run",
+    "Application.Scope3_1.executor": "Run",
+    "Application.Scope3_2.executor": "Run",
     "Application.Switch1.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.Switch3.executor": "Run",
@@ -174,6 +160,7 @@
     "Application.While2_3.executor": "Run",
     "Application.WhileEx1.executor": "Run",
     "Application.WhileEx2.executor": "Run",
+    "Application.WhileEx3.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -196,17 +183,18 @@
       <recent name="Java_kity.ch05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scope" />
       <recent name="loop.loopEx" />
       <recent name="loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForEx2">
-    <configuration name="ForEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.loopEx.ForEx1" />
+  <component name="RunManager" selected="Application.ScannerEx3">
+    <configuration name="ScannerEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx1" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.loopEx.*" />
+          <option name="PATTERN" value="scanner.scannerEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.loopEx.ForEx2" />
+    <configuration name="ScannerEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx2" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.loopEx.*" />
+          <option name="PATTERN" value="scanner.scannerEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nested1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Nested1" />
+    <configuration name="ScannerEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.scannerEx.ScannerEx3" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="scanner.scannerEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.loopEx.WhileEx1" />
+    <configuration name="ScannerWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ScannerWhile2" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.loopEx.*" />
+          <option name="PATTERN" value="scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.loopEx.WhileEx2" />
+    <configuration name="ScannerWhile3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ScannerWhile3" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.loopEx.*" />
+          <option name="PATTERN" value="scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForEx2" />
-        <item itemvalue="Application.WhileEx2" />
-        <item itemvalue="Application.ForEx1" />
-        <item itemvalue="Application.WhileEx1" />
-        <item itemvalue="Application.Nested1" />
+        <item itemvalue="Application.ScannerEx3" />
+        <item itemvalue="Application.ScannerEx2" />
+        <item itemvalue="Application.ScannerEx1" />
+        <item itemvalue="Application.ScannerWhile3" />
+        <item itemvalue="Application.ScannerWhile2" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +327,8 @@
       <workItem from="1680517106750" duration="732000" />
       <workItem from="1680528502652" duration="1642000" />
       <workItem from="1710570245479" duration="4973000" />
-      <workItem from="1710734355462" duration="20295000" />
+      <workItem from="1710734355462" duration="20736000" />
+      <workItem from="1710903893630" duration="10951000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
