@@ -5,24 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/methodEx/MethodEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/methodEx/MethodEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/methodEx/MethodEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/methodEx/MethodEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,6 +124,7 @@
     "Application.MethodEx1.executor": "Run",
     "Application.MethodEx2.executor": "Run",
     "Application.MethodEx3.executor": "Run",
+    "Application.MethodEx4.executor": "Run",
     "Application.MethodReturn1.executor": "Run",
     "Application.MethodReturn2.executor": "Run",
     "Application.MethodValue0.executor": "Run",
@@ -231,7 +214,7 @@
       <recent name="loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodEx3">
+  <component name="RunManager" selected="Application.MethodEx4">
     <configuration name="MethodEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.methodEx.MethodEx1" />
       <module name="JavaCoding" />
@@ -271,9 +254,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Overloading2" />
+    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.methodEx.MethodEx4" />
       <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.methodEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -293,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodEx4" />
         <item itemvalue="Application.MethodEx3" />
         <item itemvalue="Application.MethodEx2" />
         <item itemvalue="Application.MethodEx1" />
         <item itemvalue="Application.Overloading3" />
-        <item itemvalue="Application.Overloading2" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +356,8 @@
       <workItem from="1710734355462" duration="20736000" />
       <workItem from="1710903893630" duration="19038000" />
       <workItem from="1710990516577" duration="19474000" />
-      <workItem from="1711015879587" duration="4060000" />
+      <workItem from="1711015879587" duration="4476000" />
+      <workItem from="1711077916023" duration="2201000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
