@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/class1/classEx/productOrderEx/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/classEx/productOrderEx/ProductOrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/MovieReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/classEx/movieReviewEx/MovieReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/MovieReviewMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/classEx/movieReviewEx/MovieReviewMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/MovieReviewMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/classEx/movieReviewEx/MovieReviewMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +134,8 @@
     "Application.Method2.executor": "Run",
     "Application.MethodCasting1.executor": "Run",
     "Application.MethodCasting2.executor": "Run",
+    "Application.MethodChange1.executor": "Run",
+    "Application.MethodChange2.executor": "Run",
     "Application.MethodEx1.executor": "Run",
     "Application.MethodEx2.executor": "Run",
     "Application.MethodEx3.executor": "Run",
@@ -188,6 +193,8 @@
     "Application.Var3.executor": "Run",
     "Application.Var5.executor": "Run",
     "Application.Var7.executor": "Run",
+    "Application.VarChange1.executor": "Run",
+    "Application.VarChange2.executor": "Run",
     "Application.VarEx1.executor": "Run",
     "Application.VarEx2.executor": "Run",
     "Application.VarEx3.executor": "Run",
@@ -221,20 +228,20 @@
       <recent name="Java_kity.ch05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ref" />
       <recent name="class1" />
       <recent name="method" />
       <recent name="array" />
       <recent name="scope" />
-      <recent name="loop.loopEx" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductOrderMain">
-    <configuration name="ClassStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart5" />
+  <component name="RunManager" selected="Application.Method2">
+    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.Method1" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.classEx.movieReviewEx.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieReviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.MovieReviewMain" />
+    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.Method2" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.classEx.movieReviewEx.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieReviewMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.classEx.movieReviewEx.MovieReviewMain1" />
+    <configuration name="MethodChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.MethodChange1" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.classEx.movieReviewEx.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieReviewMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.classEx.movieReviewEx.MovieReviewMain2" />
+    <configuration name="MethodChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.MethodChange2" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.classEx.movieReviewEx.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.classEx.productOrderEx.ProductOrderMain" />
+    <configuration name="VarChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.VarChange2" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.classEx.productOrderEx.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductOrderMain" />
-        <item itemvalue="Application.MovieReviewMain2" />
-        <item itemvalue="Application.MovieReviewMain1" />
-        <item itemvalue="Application.MovieReviewMain" />
-        <item itemvalue="Application.ClassStart5" />
+        <item itemvalue="Application.Method2" />
+        <item itemvalue="Application.Method1" />
+        <item itemvalue="Application.MethodChange2" />
+        <item itemvalue="Application.MethodChange1" />
+        <item itemvalue="Application.VarChange2" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +382,7 @@
       <workItem from="1711081105258" duration="2719000" />
       <workItem from="1711353880316" duration="4337000" />
       <workItem from="1711379011871" duration="10713000" />
-      <workItem from="1711513631253" duration="1879000" />
+      <workItem from="1711513631253" duration="6752000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
