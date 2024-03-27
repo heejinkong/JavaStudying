@@ -5,140 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/MovieReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/MovieReviewMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/MovieReviewMain2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/HelloJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloJava2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/HelloJava2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/Array1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/Array1Ref1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/Array1Ref2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/Array1Ref3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/Array1Ref4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ArrayDi0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/ArrayDi0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ArrayDi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/ArrayDi1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ArrayDi2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/ArrayDi2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ArrayDi3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/ArrayDi3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ArrayDi4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/ArrayDi4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/EnhancedFor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/EnhancedFor1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/arrayEx/ArrayEx9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/array/arrayEx/ArrayEx9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/casting/Casting1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/casting/Casting2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/casting/Casting3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/casting/Casting4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/CondOp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/CondOp1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/CondOp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/CondOp2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/If1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/If1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/If2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/If2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/If3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/If3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/If4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/If4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/If5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/If5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/If6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/If6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/Switch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/Switch1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/Switch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/Switch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/Switch3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/Switch3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/Switch4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/Switch4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/condEx/CondEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/condEx/CondEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/condEx/CondEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/condEx/CondEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/condEx/CondEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/condEx/CondEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/condEx/CondEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/condEx/CondEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/condEx/CondEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/condEx/CondEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/condEx/CondEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/condEx/CondEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/condEx/CondEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/cond/condEx/CondEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Break1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/Break1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Break2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/Break2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Break3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/Break3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Continue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/Continue1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/DoWhile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/DoWhile1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/For1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/For1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/For2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/For2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Nested1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/Nested1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/While1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/While1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/While1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/While1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/While2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/While2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/While2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/While2_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/ForEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/ForEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/ForEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/ForEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/ForEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/ForEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/ForEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/ForEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/NestedEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/NestedEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/WhileEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/WhileEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/WhileEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/WhileEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/loopEx/WhileEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/loop/loopEx/WhileEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/Method1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/Method1Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/Method1Ref.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/Method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodCasting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodCasting1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodCasting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodCasting2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodReturn1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodReturn1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodReturn2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodReturn2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodValue0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodValue0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodValue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodValue1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodValue2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodValue2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/MethodValue3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/MethodValue3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/Overloading1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/Overloading1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/Overloading2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/Overloading2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/Overloading3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/Overloading3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/methodEx/MethodEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/methodEx/MethodEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/methodEx/MethodEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/methodEx/MethodEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/methodEx/MethodEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/methodEx/MethodEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/methodEx/MethodEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/method/methodEx/MethodEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Assign1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Assign1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Comp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Comp1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Comp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Comp2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Ex/OperationEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Ex/OperationEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Ex/OperationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Ex/OperationEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Ex/OperationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Ex/OperationEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Logical1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Logical1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Logical2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Logical2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Operator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Operator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Operator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Operator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Operator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Operator3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/Operator4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/Operator4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/OperatorAdd1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/operator/OperatorAdd2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Scanner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/Scanner1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Scanner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/Scanner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Scanner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/Scanner3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/ScannerWhile1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/ScannerWhile2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/ScannerWhile3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/scannerEx/ScannerEx9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scope/Scope1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scope/Scope1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scope/Scope2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scope/Scope2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scope/Scope3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scope/Scope3_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scope/Scope3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/scope/Scope3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/Var8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/VarEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/VarEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/VarEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/VarEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/VarEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/variable/VarEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,154 +62,158 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array1.executor": "Run",
-    "Application.Array1Ref1.executor": "Run",
-    "Application.Array1Ref2.executor": "Run",
-    "Application.Array1Ref3.executor": "Run",
-    "Application.Array1Ref4.executor": "Run",
-    "Application.ArrayDi0.executor": "Run",
-    "Application.ArrayDi1.executor": "Run",
-    "Application.ArrayDi2.executor": "Run",
-    "Application.ArrayDi3.executor": "Run",
-    "Application.ArrayDi4.executor": "Run",
-    "Application.ArrayEx1.executor": "Run",
-    "Application.ArrayEx2.executor": "Run",
-    "Application.ArrayEx3.executor": "Run",
-    "Application.ArrayEx4.executor": "Run",
-    "Application.ArrayEx5.executor": "Run",
-    "Application.ArrayEx6.executor": "Run",
-    "Application.ArrayEx7.executor": "Run",
-    "Application.ArrayEx8.executor": "Run",
-    "Application.ArrayEx9.executor": "Run",
-    "Application.Assign1.executor": "Run",
-    "Application.Break1.executor": "Run",
-    "Application.Break2.executor": "Run",
-    "Application.Break3.executor": "Run",
-    "Application.Casting1.executor": "Run",
-    "Application.Casting2.executor": "Run",
-    "Application.Casting3.executor": "Run",
-    "Application.Casting4.executor": "Run",
-    "Application.ClassStart1.executor": "Run",
-    "Application.ClassStart2.executor": "Run",
-    "Application.ClassStart3.executor": "Run",
-    "Application.Comment.executor": "Run",
-    "Application.Comp1.executor": "Run",
-    "Application.Comp2.executor": "Run",
-    "Application.CondEx1.executor": "Run",
-    "Application.CondEx2.executor": "Run",
-    "Application.CondEx3.executor": "Run",
-    "Application.CondEx4.executor": "Run",
-    "Application.CondEx5.executor": "Run",
-    "Application.CondEx6.executor": "Run",
-    "Application.CondEx7.executor": "Run",
-    "Application.CondOp1.executor": "Run",
-    "Application.CondOp2.executor": "Run",
-    "Application.Continue1.executor": "Run",
-    "Application.DoWhile1.executor": "Run",
-    "Application.EnhancedFor1.executor": "Run",
-    "Application.For1.executor": "Run",
-    "Application.For2.executor": "Run",
-    "Application.ForEx1.executor": "Run",
-    "Application.ForEx2.executor": "Run",
-    "Application.ForEx3.executor": "Run",
-    "Application.ForEx4.executor": "Run",
-    "Application.HelloJava.executor": "Run",
-    "Application.HelloJava2.executor": "Run",
-    "Application.If1.executor": "Run",
-    "Application.If3.executor": "Run",
-    "Application.If4.executor": "Run",
-    "Application.If5.executor": "Run",
-    "Application.If6.executor": "Run",
-    "Application.Logical1.executor": "Run",
-    "Application.Logical2.executor": "Run",
-    "Application.Method1.executor": "Run",
-    "Application.Method1Ref.executor": "Run",
-    "Application.Method2.executor": "Run",
-    "Application.MethodCasting1.executor": "Run",
-    "Application.MethodCasting2.executor": "Run",
-    "Application.MethodEx1.executor": "Run",
-    "Application.MethodEx2.executor": "Run",
-    "Application.MethodEx3.executor": "Run",
-    "Application.MethodEx4.executor": "Run",
-    "Application.MethodReturn1.executor": "Run",
-    "Application.MethodReturn2.executor": "Run",
-    "Application.MethodValue0.executor": "Run",
-    "Application.MethodValue1.executor": "Run",
-    "Application.MethodValue2.executor": "Run",
-    "Application.MethodValue3.executor": "Run",
-    "Application.Nested1.executor": "Run",
-    "Application.NestedEx2.executor": "Run",
-    "Application.OperationEx1.executor": "Run",
-    "Application.OperationEx2.executor": "Run",
-    "Application.OperationEx3.executor": "Run",
-    "Application.Operator1.executor": "Debug",
-    "Application.Operator2.executor": "Run",
-    "Application.Operator3.executor": "Run",
-    "Application.Operator4.executor": "Run",
-    "Application.OperatorAdd1.executor": "Run",
-    "Application.OperatorAdd2.executor": "Run",
-    "Application.Overloading1.executor": "Run",
-    "Application.Overloading2.executor": "Run",
-    "Application.Overloading3.executor": "Run",
-    "Application.Scanner1.executor": "Run",
-    "Application.Scanner2.executor": "Run",
-    "Application.Scanner3.executor": "Run",
-    "Application.ScannerEx1.executor": "Run",
-    "Application.ScannerEx10.executor": "Run",
-    "Application.ScannerEx2.executor": "Run",
-    "Application.ScannerEx3.executor": "Run",
-    "Application.ScannerEx4.executor": "Run",
-    "Application.ScannerEx5.executor": "Run",
-    "Application.ScannerEx6.executor": "Run",
-    "Application.ScannerEx7.executor": "Run",
-    "Application.ScannerEx8.executor": "Run",
-    "Application.ScannerEx9.executor": "Run",
-    "Application.ScannerWhile1.executor": "Run",
-    "Application.ScannerWhile2.executor": "Run",
-    "Application.ScannerWhile3.executor": "Run",
-    "Application.Scope1.executor": "Run",
-    "Application.Scope2.executor": "Run",
-    "Application.Scope3_1.executor": "Run",
-    "Application.Scope3_2.executor": "Run",
-    "Application.Switch1.executor": "Run",
-    "Application.Switch2.executor": "Run",
-    "Application.Switch3.executor": "Run",
-    "Application.Switch4.executor": "Run",
-    "Application.Var1.executor": "Run",
-    "Application.Var2.executor": "Run",
-    "Application.Var3.executor": "Run",
-    "Application.Var5.executor": "Run",
-    "Application.Var7.executor": "Run",
-    "Application.VarEx1.executor": "Run",
-    "Application.VarEx2.executor": "Run",
-    "Application.VarEx3.executor": "Run",
-    "Application.While1_1.executor": "Run",
-    "Application.While1_2.executor": "Run",
-    "Application.While2_1.executor": "Run",
-    "Application.While2_2.executor": "Run",
-    "Application.While2_3.executor": "Run",
-    "Application.WhileEx1.executor": "Run",
-    "Application.WhileEx2.executor": "Run",
-    "Application.WhileEx3.executor": "Run",
-    "Application.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kongheejin/Documents/GitHub/JavaStudying",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assign1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassStart1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassStart2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassStart3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassStart4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassStart5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comp1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comp2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondEx7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondOp1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondOp2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Continue1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnhancedFor1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloJava2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method1Ref.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodCasting1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodCasting2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReturn1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReturn2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieReviewMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieReviewMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nested1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Operator2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorAdd1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorAdd2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overloading1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overloading2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overloading3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhile1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhile2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhile3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Var1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Var2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Var3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Var5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Var7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kongheejin/Documents/GitHub/JavaStudying&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Java_kity.ch05" />
@@ -350,33 +226,7 @@
       <recent name="loop.loopEx" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassStart3">
-    <configuration name="ClassStart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart1" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassStart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart2" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MovieReviewMain1">
     <configuration name="ClassStart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class1.ClassStart3" />
       <module name="JavaCoding" />
@@ -390,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.methodEx.MethodEx3" />
+    <configuration name="ClassStart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart4" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.methodEx.*" />
+          <option name="PATTERN" value="class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,12 +253,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.methodEx.MethodEx4" />
+    <configuration name="ClassStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart5" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.methodEx.*" />
+          <option name="PATTERN" value="class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieReviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.MovieReviewMain" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieReviewMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.MovieReviewMain1" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieReviewMain1" />
+        <item itemvalue="Application.MovieReviewMain" />
+        <item itemvalue="Application.ClassStart5" />
+        <item itemvalue="Application.ClassStart4" />
         <item itemvalue="Application.ClassStart3" />
-        <item itemvalue="Application.ClassStart2" />
-        <item itemvalue="Application.ClassStart1" />
-        <item itemvalue="Application.MethodEx4" />
-        <item itemvalue="Application.MethodEx3" />
       </list>
     </recent_temporary>
   </component>
@@ -495,6 +371,8 @@
       <workItem from="1711015879587" duration="4476000" />
       <workItem from="1711077916023" duration="2785000" />
       <workItem from="1711081105258" duration="2719000" />
+      <workItem from="1711353880316" duration="4337000" />
+      <workItem from="1711379011871" duration="10713000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
