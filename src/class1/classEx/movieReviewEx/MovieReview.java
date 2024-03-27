@@ -1,4 +1,4 @@
-package class1;
+package class1.classEx.movieReviewEx;
 
 public class MovieReview {
     String title;

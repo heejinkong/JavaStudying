@@ -1,10 +1,7 @@
-package class1;
+package class1.classEx.movieReviewEx;
 
-public class MovieReviewMain2 {
+public class MovieReviewMain1 {
     public static void main(String[] args) {
-        MovieReview[] reviews = new MovieReview[2];
-
-
         MovieReview inception = new MovieReview();
         inception.title = "인셉션";
         inception.review = "인생은 무한 루프";
