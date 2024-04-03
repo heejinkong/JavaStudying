@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/RectangleOopMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/RectangleProceduralMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,6 +138,7 @@
     "Application.MethodEx2.executor": "Run",
     "Application.MethodEx3.executor": "Run",
     "Application.MethodEx4.executor": "Run",
+    "Application.MethodInitMain1.executor": "Run",
     "Application.MethodReturn1.executor": "Run",
     "Application.MethodReturn2.executor": "Run",
     "Application.MethodValue0.executor": "Run",
@@ -244,20 +239,46 @@
       <recent name="Java_kity.ch05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
       <recent name="oop1" />
       <recent name="ref" />
       <recent name="class1" />
       <recent name="method" />
-      <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountMain">
+  <component name="RunManager" selected="Application.MethodInitMain3">
     <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop1.oopEx.AccountMain" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oop1.oopEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodInitMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain1" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="construct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodInitMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain3" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,39 +312,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueDataMain" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValueObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueObjectMain" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodInitMain3" />
+        <item itemvalue="Application.MethodInitMain1" />
         <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.RectangleOopMain" />
         <item itemvalue="Application.MusicPlayerMain4" />
-        <item itemvalue="Application.ValueObjectMain" />
-        <item itemvalue="Application.ValueDataMain" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +400,7 @@
       <workItem from="1711865963609" duration="599000" />
       <workItem from="1711887199736" duration="598000" />
       <workItem from="1711943960048" duration="10459000" />
-      <workItem from="1712113728556" duration="4889000" />
+      <workItem from="1712113728556" duration="7004000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
