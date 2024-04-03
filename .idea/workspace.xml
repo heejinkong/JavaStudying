@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ValueData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ValueDataMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/RectangleOopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/oopEx/RectangleProceduralMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +69,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccountMain.executor": "Run",
     "Application.Array1.executor": "Run",
     "Application.Array1Ref1.executor": "Run",
     "Application.Array1Ref2.executor": "Run",
@@ -144,6 +155,7 @@
     "Application.MovieReviewMain2.executor": "Run",
     "Application.MusicPlayerMain1.executor": "Run",
     "Application.MusicPlayerMain2.executor": "Run",
+    "Application.MusicPlayerMain4.executor": "Run",
     "Application.Nested1.executor": "Run",
     "Application.NestedEx2.executor": "Run",
     "Application.NullMain1.executor": "Run",
@@ -165,6 +177,7 @@
     "Application.ProductOrderMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.ProductOrderMain3.executor": "Run",
+    "Application.RectangleOopMain.executor": "Run",
     "Application.Scanner1.executor": "Run",
     "Application.Scanner2.executor": "Run",
     "Application.Scanner3.executor": "Run",
@@ -189,6 +202,8 @@
     "Application.Switch2.executor": "Run",
     "Application.Switch3.executor": "Run",
     "Application.Switch4.executor": "Run",
+    "Application.ValueDataMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
     "Application.Var1.executor": "Run",
     "Application.Var2.executor": "Run",
     "Application.Var3.executor": "Run",
@@ -236,9 +251,22 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MusicPlayerMain2">
-    <configuration name="MusicPlayerMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain1" />
+  <component name="RunManager" selected="Application.AccountMain">
+    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.oopEx.AccountMain" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop1.oopEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicPlayerMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain4" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -250,8 +278,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain2" />
+    <configuration name="RectangleOopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.oopEx.RectangleOopMain" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop1.oopEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ValueDataMain" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -263,38 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain4" />
+    <configuration name="ValueObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ValueObjectMain" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOrderMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.refEx.ProductOrderMain2" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ref.refEx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOrderMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.refEx.ProductOrderMain3" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ref.refEx.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MusicPlayerMain2" />
-        <item itemvalue="Application.MusicPlayerMain1" />
-        <item itemvalue="Application.ProductOrderMain3" />
-        <item itemvalue="Application.ProductOrderMain2" />
-        <item itemvalue="Application.NullMain4" />
+        <item itemvalue="Application.AccountMain" />
+        <item itemvalue="Application.RectangleOopMain" />
+        <item itemvalue="Application.MusicPlayerMain4" />
+        <item itemvalue="Application.ValueObjectMain" />
+        <item itemvalue="Application.ValueDataMain" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +405,7 @@
       <workItem from="1711865963609" duration="599000" />
       <workItem from="1711887199736" duration="598000" />
       <workItem from="1711943960048" duration="10459000" />
+      <workItem from="1712113728556" duration="4889000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
