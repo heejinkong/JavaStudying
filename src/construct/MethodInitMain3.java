@@ -5,7 +5,7 @@ public class MethodInitMain3 {
         MemberInit member1 = new MemberInit();
         member1.initMember("user1",15, 90);
 
- 
+
         MemberInit member2 = new MemberInit();
         member2.initMember("user2",16, 80);
 
