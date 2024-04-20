@@ -11,7 +11,7 @@ public class Solution2056 {
         for(int i = 0; i < t; i++) {
             year[i] = sc.nextInt();
             if(year[4] == 0 ) {
-                if(year[5] == 1 && year[5] == )
+//                if(year[5] == 1 && year[5] == )
             }
             System.out.println(year[i]);
         }
