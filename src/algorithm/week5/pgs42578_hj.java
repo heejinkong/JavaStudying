@@ -1,5 +1,5 @@
 package algorithm.week5;
-
+//의상
 import java.util.HashMap;
 
 public class pgs42578_hj {
@@ -13,16 +13,17 @@ public class pgs42578_hj {
         int max = 0;
 
         for(int i=0; i < clothes.length; i++) {
-            map.put(clothes[i][1],map.getOrDefault(clothes[i][1], 0)+1);
-        }
-
-        for (String s : map.keySet()) {
-            answer *= (map.get(s)+1);
+            map.put(clothes[i][1],map.getOrDefault(clothes[i][1], 0)+1); // 의상 종류별로 개수 저장
         }
 
         //머리 - 2개
         //안경 - 1개
         //(1+1) * (2+1) - 1
+        for (String s : map.keySet()) {
+            answer *= (map.get(s)+1); // 조합 안입는 경우 고려 -> -1
+        }
+
+
 
 
         //eye -1개
@@ -41,6 +42,6 @@ public class pgs42578_hj {
 //               }
 //           }
 
-        return answer-1;
+        return answer-1; // 모두 안입었을 경우 -> -1
     }
 }
