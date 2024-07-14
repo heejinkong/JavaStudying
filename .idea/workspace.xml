@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/week6/boj15649_hj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/week6/boj17404_hj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Recursion/pgs120848.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Recursion/pgs120848_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Recursion/pgs12945.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/backtracking/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/backtracking/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/backtracking/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/backtracking/Solution3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,274 +65,280 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi0.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assign1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Casting1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Casting2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Casting3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Casting4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comp1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comp2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondEx5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondEx6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondEx7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondOp1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondOp2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Continue1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DequeEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnhancedFor1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.For1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.For2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloJava.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloJava2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InitMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Logical1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Logical2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method1Ref.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodCasting1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodCasting2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodChange1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodChange2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReturn1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReturn2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue0.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperationEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperationEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperationEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operator1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Operator2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operator3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operator4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperatorAdd1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperatorAdd2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overloading1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overloading2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overloading3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriorityQueueEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RectangleOopMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scanner1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scanner2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scanner3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerWhile1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerWhile2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerWhile3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scope1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scope2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scope3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scope3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution2056.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution2063.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution2068.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution2070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution2071.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackQueueEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SupermanUse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueDataMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Var1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Var2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Var3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Var5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Var7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarChange1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarChange2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While1_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While1_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While2_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While2_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.boj1149_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.boj14501_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.boj15649_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.boj2293_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.boj9655_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs118667_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs12906_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs12909_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs132265_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs140107_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs1845_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42578_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42579_1_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42579_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42583_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42584_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42586_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42587_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs42626_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs60057_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pgs76502_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.psg138982_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.psg138983_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.psg138984_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.psg138985_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.psg24215_hj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.가위바위보.executor&quot;: &quot;Run&quot;,
-    &quot;Application.가장긴감소하는부분수열_11722.executor&quot;: &quot;Run&quot;,
-    &quot;Application.가장긴증가하는부분수열_11053.executor&quot;: &quot;Run&quot;,
-    &quot;Application.가장큰증가하는부분수_11055.executor&quot;: &quot;Run&quot;,
-    &quot;Application.각도기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.개미군단.executor&quot;: &quot;Run&quot;,
-    &quot;Application.구간합구하기4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.나머지구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.나이출력.executor&quot;: &quot;Run&quot;,
-    &quot;Application.두수의곱.executor&quot;: &quot;Run&quot;,
-    &quot;Application.두수의나눗셈.executor&quot;: &quot;Run&quot;,
-    &quot;Application.두수의차.executor&quot;: &quot;Run&quot;,
-    &quot;Application.만들기1로_1463.executor&quot;: &quot;Run&quot;,
-    &quot;Application.머쓱이보다키큰사람.executor&quot;: &quot;Run&quot;,
-    &quot;Application.모스부호.executor&quot;: &quot;Run&quot;,
-    &quot;Application.모음제거.executor&quot;: &quot;Run&quot;,
-    &quot;Application.몫구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.문자반복출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.문자열뒤집기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.배열두배만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.배열의평균값.executor&quot;: &quot;Run&quot;,
-    &quot;Application.배열자르기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.분수의덧셈.executor&quot;: &quot;Run&quot;,
-    &quot;Application.삼각형의완성조건1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.수들의합5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.순서쌍의개수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.숨어있는숫자의덧셈1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.숫자비교하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.숫자의합.executor&quot;: &quot;Run&quot;,
-    &quot;Application.아이스아메리카노.executor&quot;: &quot;Run&quot;,
-    &quot;Application.암호해독.executor&quot;: &quot;Run&quot;,
-    &quot;Application.양꼬치.executor&quot;: &quot;Run&quot;,
-    &quot;Application.옷가게할인.executor&quot;: &quot;Run&quot;,
-    &quot;Application.외계행성의나이.executor&quot;: &quot;Run&quot;,
-    &quot;Application.주몽_1940.executor&quot;: &quot;Run&quot;,
-    &quot;Application.주사위의개수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.중복된숫자개수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.중앙값구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.직각삼각형출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.진료순서정하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.짝수는싫어요.executor&quot;: &quot;Run&quot;,
-    &quot;Application.짝수의합.executor&quot;: &quot;Run&quot;,
-    &quot;Application.짝수홀수개수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.최빈값구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.최빈값구하기HashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.특정문자제거하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.평균.executor&quot;: &quot;Run&quot;,
-    &quot;Application.피자나눠먹기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.피자나눠먹기2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.피자나눠먹기3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kongheejin/Documents/GitHub/JavaStudying&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountMain.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.Array1Ref1.executor": "Run",
+    "Application.Array1Ref2.executor": "Run",
+    "Application.Array1Ref3.executor": "Run",
+    "Application.Array1Ref4.executor": "Run",
+    "Application.ArrayDi0.executor": "Run",
+    "Application.ArrayDi1.executor": "Run",
+    "Application.ArrayDi2.executor": "Run",
+    "Application.ArrayDi3.executor": "Run",
+    "Application.ArrayDi4.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
+    "Application.ArrayEx8.executor": "Run",
+    "Application.ArrayEx9.executor": "Run",
+    "Application.Assign1.executor": "Run",
+    "Application.Break1.executor": "Run",
+    "Application.Break2.executor": "Run",
+    "Application.Break3.executor": "Run",
+    "Application.Casting1.executor": "Run",
+    "Application.Casting2.executor": "Run",
+    "Application.Casting3.executor": "Run",
+    "Application.Casting4.executor": "Run",
+    "Application.ClassStart1.executor": "Run",
+    "Application.ClassStart2.executor": "Run",
+    "Application.ClassStart3.executor": "Run",
+    "Application.ClassStart4.executor": "Run",
+    "Application.ClassStart5.executor": "Run",
+    "Application.Comment.executor": "Run",
+    "Application.Comp1.executor": "Run",
+    "Application.Comp2.executor": "Run",
+    "Application.CondEx1.executor": "Run",
+    "Application.CondEx2.executor": "Run",
+    "Application.CondEx3.executor": "Run",
+    "Application.CondEx4.executor": "Run",
+    "Application.CondEx5.executor": "Run",
+    "Application.CondEx6.executor": "Run",
+    "Application.CondEx7.executor": "Run",
+    "Application.CondOp1.executor": "Run",
+    "Application.CondOp2.executor": "Run",
+    "Application.Continue1.executor": "Run",
+    "Application.DequeEx.executor": "Run",
+    "Application.DoWhile1.executor": "Run",
+    "Application.EnhancedFor1.executor": "Run",
+    "Application.For1.executor": "Run",
+    "Application.For2.executor": "Run",
+    "Application.ForEx1.executor": "Run",
+    "Application.ForEx2.executor": "Run",
+    "Application.ForEx3.executor": "Run",
+    "Application.ForEx4.executor": "Run",
+    "Application.HelloJava.executor": "Run",
+    "Application.HelloJava2.executor": "Run",
+    "Application.If1.executor": "Run",
+    "Application.If3.executor": "Run",
+    "Application.If4.executor": "Run",
+    "Application.If5.executor": "Run",
+    "Application.If6.executor": "Run",
+    "Application.InitMain.executor": "Run",
+    "Application.Logical1.executor": "Run",
+    "Application.Logical2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Method1.executor": "Run",
+    "Application.Method1Ref.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodCasting1.executor": "Run",
+    "Application.MethodCasting2.executor": "Run",
+    "Application.MethodChange1.executor": "Run",
+    "Application.MethodChange2.executor": "Run",
+    "Application.MethodEx1.executor": "Run",
+    "Application.MethodEx2.executor": "Run",
+    "Application.MethodEx3.executor": "Run",
+    "Application.MethodEx4.executor": "Run",
+    "Application.MethodInitMain1.executor": "Run",
+    "Application.MethodInitMain3.executor": "Run",
+    "Application.MethodReturn1.executor": "Run",
+    "Application.MethodReturn2.executor": "Run",
+    "Application.MethodValue0.executor": "Run",
+    "Application.MethodValue1.executor": "Run",
+    "Application.MethodValue2.executor": "Run",
+    "Application.MethodValue3.executor": "Run",
+    "Application.MovieReviewMain.executor": "Run",
+    "Application.MovieReviewMain1.executor": "Run",
+    "Application.MovieReviewMain2.executor": "Run",
+    "Application.MusicPlayerMain1.executor": "Run",
+    "Application.MusicPlayerMain2.executor": "Run",
+    "Application.MusicPlayerMain4.executor": "Run",
+    "Application.Nested1.executor": "Run",
+    "Application.NestedEx2.executor": "Run",
+    "Application.NullMain1.executor": "Run",
+    "Application.NullMain2.executor": "Run",
+    "Application.NullMain3.executor": "Run",
+    "Application.NullMain4.executor": "Run",
+    "Application.OperationEx1.executor": "Run",
+    "Application.OperationEx2.executor": "Run",
+    "Application.OperationEx3.executor": "Run",
+    "Application.Operator1.executor": "Debug",
+    "Application.Operator2.executor": "Run",
+    "Application.Operator3.executor": "Run",
+    "Application.Operator4.executor": "Run",
+    "Application.OperatorAdd1.executor": "Run",
+    "Application.OperatorAdd2.executor": "Run",
+    "Application.Overloading1.executor": "Run",
+    "Application.Overloading2.executor": "Run",
+    "Application.Overloading3.executor": "Run",
+    "Application.Permutation.executor": "Run",
+    "Application.PriorityQueueEx.executor": "Run",
+    "Application.ProductOrderMain.executor": "Run",
+    "Application.ProductOrderMain2.executor": "Run",
+    "Application.ProductOrderMain3.executor": "Run",
+    "Application.RectangleOopMain.executor": "Run",
+    "Application.Scanner1.executor": "Run",
+    "Application.Scanner2.executor": "Run",
+    "Application.Scanner3.executor": "Run",
+    "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx10.executor": "Run",
+    "Application.ScannerEx2.executor": "Run",
+    "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
+    "Application.ScannerEx6.executor": "Run",
+    "Application.ScannerEx7.executor": "Run",
+    "Application.ScannerEx8.executor": "Run",
+    "Application.ScannerEx9.executor": "Run",
+    "Application.ScannerWhile1.executor": "Run",
+    "Application.ScannerWhile2.executor": "Run",
+    "Application.ScannerWhile3.executor": "Run",
+    "Application.Scope1.executor": "Run",
+    "Application.Scope2.executor": "Run",
+    "Application.Scope3_1.executor": "Run",
+    "Application.Scope3_2.executor": "Run",
+    "Application.Solution.executor": "Debug",
+    "Application.Solution1.executor": "Run",
+    "Application.Solution11.executor": "Run",
+    "Application.Solution2.executor": "Run",
+    "Application.Solution2056.executor": "Run",
+    "Application.Solution2063.executor": "Run",
+    "Application.Solution2068.executor": "Run",
+    "Application.Solution2070.executor": "Run",
+    "Application.Solution2071.executor": "Run",
+    "Application.Solution3.executor": "Run",
+    "Application.Solution5.executor": "Run",
+    "Application.Solution6.executor": "Run",
+    "Application.Solution7.executor": "Run",
+    "Application.Solution8.executor": "Run",
+    "Application.Solution9.executor": "Run",
+    "Application.StackQueueEx.executor": "Run",
+    "Application.SupermanUse.executor": "Run",
+    "Application.Switch1.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.Switch3.executor": "Run",
+    "Application.Switch4.executor": "Run",
+    "Application.ValueDataMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
+    "Application.Var1.executor": "Run",
+    "Application.Var2.executor": "Run",
+    "Application.Var3.executor": "Run",
+    "Application.Var5.executor": "Run",
+    "Application.Var7.executor": "Run",
+    "Application.VarChange1.executor": "Run",
+    "Application.VarChange2.executor": "Run",
+    "Application.VarEx1.executor": "Run",
+    "Application.VarEx2.executor": "Run",
+    "Application.VarEx3.executor": "Run",
+    "Application.While1_1.executor": "Run",
+    "Application.While1_2.executor": "Run",
+    "Application.While2_1.executor": "Run",
+    "Application.While2_2.executor": "Run",
+    "Application.While2_3.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
+    "Application.WhileEx3.executor": "Run",
+    "Application.boj1149_hj.executor": "Run",
+    "Application.boj14501_hj.executor": "Run",
+    "Application.boj15649_hj.executor": "Run",
+    "Application.boj2293_hj.executor": "Run",
+    "Application.boj9655_hj.executor": "Run",
+    "Application.example.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.pgs118667_hj.executor": "Run",
+    "Application.pgs120848.executor": "Run",
+    "Application.pgs12906_hj.executor": "Run",
+    "Application.pgs12909_hj.executor": "Run",
+    "Application.pgs12945.executor": "Run",
+    "Application.pgs132265_hj.executor": "Run",
+    "Application.pgs140107_hj.executor": "Run",
+    "Application.pgs1845_hj.executor": "Run",
+    "Application.pgs42578_hj.executor": "Run",
+    "Application.pgs42579_1_hj.executor": "Run",
+    "Application.pgs42579_hj.executor": "Run",
+    "Application.pgs42583_hj.executor": "Run",
+    "Application.pgs42584_hj.executor": "Run",
+    "Application.pgs42586_hj.executor": "Run",
+    "Application.pgs42587_hj.executor": "Run",
+    "Application.pgs42626_hj.executor": "Run",
+    "Application.pgs60057_hj.executor": "Run",
+    "Application.pgs76502_hj.executor": "Run",
+    "Application.psg138982_hj.executor": "Run",
+    "Application.psg138983_hj.executor": "Run",
+    "Application.psg138984_hj.executor": "Run",
+    "Application.psg138985_hj.executor": "Run",
+    "Application.psg24215_hj.executor": "Run",
+    "Application.가위바위보.executor": "Run",
+    "Application.가장긴감소하는부분수열_11722.executor": "Run",
+    "Application.가장긴증가하는부분수열_11053.executor": "Run",
+    "Application.가장큰증가하는부분수_11055.executor": "Run",
+    "Application.각도기.executor": "Run",
+    "Application.개미군단.executor": "Run",
+    "Application.구간합구하기4.executor": "Run",
+    "Application.나머지구하기.executor": "Run",
+    "Application.나이출력.executor": "Run",
+    "Application.두수의곱.executor": "Run",
+    "Application.두수의나눗셈.executor": "Run",
+    "Application.두수의차.executor": "Run",
+    "Application.만들기1로_1463.executor": "Run",
+    "Application.머쓱이보다키큰사람.executor": "Run",
+    "Application.모스부호.executor": "Run",
+    "Application.모음제거.executor": "Run",
+    "Application.몫구하기.executor": "Run",
+    "Application.문자반복출력하기.executor": "Run",
+    "Application.문자열뒤집기.executor": "Run",
+    "Application.배열두배만들기.executor": "Run",
+    "Application.배열의평균값.executor": "Run",
+    "Application.배열자르기.executor": "Run",
+    "Application.분수의덧셈.executor": "Run",
+    "Application.삼각형의완성조건1.executor": "Run",
+    "Application.수들의합5.executor": "Run",
+    "Application.순서쌍의개수.executor": "Run",
+    "Application.숨어있는숫자의덧셈1.executor": "Run",
+    "Application.숫자비교하기.executor": "Run",
+    "Application.숫자의합.executor": "Run",
+    "Application.아이스아메리카노.executor": "Run",
+    "Application.암호해독.executor": "Run",
+    "Application.양꼬치.executor": "Run",
+    "Application.옷가게할인.executor": "Run",
+    "Application.외계행성의나이.executor": "Run",
+    "Application.주몽_1940.executor": "Run",
+    "Application.주사위의개수.executor": "Run",
+    "Application.중복된숫자개수.executor": "Run",
+    "Application.중앙값구하기.executor": "Run",
+    "Application.직각삼각형출력하기.executor": "Run",
+    "Application.진료순서정하기.executor": "Run",
+    "Application.짝수는싫어요.executor": "Run",
+    "Application.짝수의합.executor": "Run",
+    "Application.짝수홀수개수.executor": "Run",
+    "Application.최빈값구하기.executor": "Run",
+    "Application.최빈값구하기HashMap.executor": "Run",
+    "Application.특정문자제거하기.executor": "Run",
+    "Application.평균.executor": "Run",
+    "Application.피자나눠먹기.executor": "Run",
+    "Application.피자나눠먹기2.executor": "Run",
+    "Application.피자나눠먹기3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kongheejin/Documents/GitHub/JavaStudying",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Java_kity.ch05" />
@@ -353,8 +365,86 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="모스부호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.모스부호" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자반복출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.문자반복출력하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자비교하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.숫자비교하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="순서쌍의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.순서쌍의개수" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -405,8 +495,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="개미군단" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.개미군단" />
+    <configuration name="나이출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.나이출력" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -418,8 +508,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="나이출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.나이출력" />
+    <configuration name="개미군단" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.개미군단" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -444,8 +534,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최빈값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.최빈값구하기" />
+    <configuration name="짝수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.짝수의합" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -457,8 +547,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="짝수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.짝수의합" />
+    <configuration name="최빈값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.최빈값구하기" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -511,84 +601,6 @@
     </configuration>
     <configuration name="외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.외계행성의나이" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="모스부호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.모스부호" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문자반복출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.문자반복출력하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="숫자비교하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.숫자비교하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -765,7 +777,11 @@
       <workItem from="1720509451120" duration="7809000" />
       <workItem from="1720570270808" duration="599000" />
       <workItem from="1720606164352" duration="3531000" />
-      <workItem from="1720656579653" duration="4771000" />
+      <workItem from="1720656579653" duration="6653000" />
+      <workItem from="1720742165822" duration="617000" />
+      <workItem from="1720841673985" duration="13018000" />
+      <workItem from="1720936885760" duration="1410000" />
+      <workItem from="1720938342830" duration="5707000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
@@ -803,6 +819,61 @@
           <url>file://$PROJECT_DIR$/src/base/scanner/scannerEx/ScannerEx10.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/Recursion/Factorial.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/Recursion/pgs12945.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/Recursion/pgs12945.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/backtracking/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/cote/만들기1로_1463.java</url>
