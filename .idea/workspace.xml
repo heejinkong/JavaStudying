@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/week7/pgs140902.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/week7/pgs140903.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/대문자와소문자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/week7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/week7/permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/week7/pgs140904_hj.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +245,9 @@
     "Application.boj2293_hj.executor": "Run",
     "Application.boj9655_hj.executor": "Run",
     "Application.example.executor": "Run",
+    "Application.leet60.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.permutation.executor": "Run",
     "Application.pgs118667_hj.executor": "Run",
     "Application.pgs120848.executor": "Run",
     "Application.pgs12906_hj.executor": "Run",
@@ -253,6 +257,7 @@
     "Application.pgs140107_hj.executor": "Run",
     "Application.pgs140902.executor": "Debug",
     "Application.pgs140903.executor": "Debug",
+    "Application.pgs140904_hj.executor": "Run",
     "Application.pgs1845_hj.executor": "Run",
     "Application.pgs42578_hj.executor": "Run",
     "Application.pgs42579_1_hj.executor": "Run",
@@ -278,6 +283,7 @@
     "Application.구간합구하기4.executor": "Run",
     "Application.나머지구하기.executor": "Run",
     "Application.나이출력.executor": "Run",
+    "Application.대문자와소문자.executor": "Run",
     "Application.두수의곱.executor": "Run",
     "Application.두수의나눗셈.executor": "Run",
     "Application.두수의차.executor": "Run",
@@ -361,8 +367,86 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="가위바위보" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.가위바위보" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="몫구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.몫구하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.아이스아메리카노" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.외계행성의나이" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="모스부호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.모스부호" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -413,8 +497,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
+    <configuration name="두수의나눗셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.두수의나눗셈" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -426,8 +510,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="두수의나눗셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.두수의나눗셈" />
+    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -452,8 +536,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="모음제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.모음제거" />
+    <configuration name="나이출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.나이출력" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -465,8 +549,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="나이출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.나이출력" />
+    <configuration name="모음제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.모음제거" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -519,84 +603,6 @@
     </configuration>
     <configuration name="최빈값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.최빈값구하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="가위바위보" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.가위바위보" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="몫구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.몫구하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.아이스아메리카노" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.외계행성의나이" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="모스부호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.모스부호" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -782,7 +788,11 @@
       <workItem from="1721025377703" duration="5472000" />
       <workItem from="1721039312920" duration="25000" />
       <workItem from="1721039347142" duration="835000" />
-      <workItem from="1721040189657" duration="3965000" />
+      <workItem from="1721040189657" duration="4522000" />
+      <workItem from="1721088708659" duration="13894000" />
+      <workItem from="1721120568865" duration="3000" />
+      <workItem from="1721175369509" duration="599000" />
+      <workItem from="1721214151383" duration="2785000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
@@ -891,61 +901,6 @@
           <line>27</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/cote/만들기1로_1463.java</url>
           <line>16</line>
@@ -954,15 +909,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/algorithm/week7/pgs140903.java</url>
-          <line>31</line>
-          <properties class="algorithm.week7.pgs140903" method="backtrack">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
