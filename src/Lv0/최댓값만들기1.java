@@ -1,0 +1,16 @@
+package Lv0;
+
+import java.util.Arrays;
+
+public class 최댓값만들기1 {
+    class Solution {
+        public int solution(int[] numbers) {
+            int answer = 0;
+            Arrays.sort(numbers);
+
+            answer = numbers[numbers.length - 2] * numbers[numbers.length - 1];
+
+            return answer;
+        }
+    }
+}
