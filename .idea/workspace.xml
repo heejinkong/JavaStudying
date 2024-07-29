@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/Lv0/n차원으로만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/공던지기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/배열회전시키기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/최댓값만들기1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/편지.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/합성수찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/graph/N_Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/세균증식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/자릿수더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/제곱수판별하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/최댓값만들기2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -374,7 +371,7 @@
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv0.*" />
+          <option name="PATTERN" value="Lv0.Solution" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -817,7 +814,7 @@
       <workItem from="1721454607284" duration="598000" />
       <workItem from="1721898819604" duration="6602000" />
       <workItem from="1721951912085" duration="15169000" />
-      <workItem from="1722229764858" duration="2934000" />
+      <workItem from="1722229764858" duration="5371000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
