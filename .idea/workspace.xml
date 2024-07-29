@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/Lv0/세균증식.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/자릿수더하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/제곱수판별하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv0/최댓값만들기2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/삼육구게임.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/제곱수판별하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv0/제곱수판별하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -814,7 +812,7 @@
       <workItem from="1721454607284" duration="598000" />
       <workItem from="1721898819604" duration="6602000" />
       <workItem from="1721951912085" duration="15169000" />
-      <workItem from="1722229764858" duration="5371000" />
+      <workItem from="1722229764858" duration="7669000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>

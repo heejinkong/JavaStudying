@@ -1,5 +1,8 @@
 package Lv0;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class 제곱수판별하기 {
     class Solution {
         public int solution(int n) {
@@ -9,4 +12,6 @@ public class 제곱수판별하기 {
             return answer;
         }
     }
+
+
 }
