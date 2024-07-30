@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/Lv0/삼육구게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/소인수분해.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/약수구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/컨트롤제트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/graph/네트워크.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/graph/단어변환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/graph/타겟넘버.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv0/제곱수판별하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv0/제곱수판별하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,6 +292,8 @@
     "Application.구슬을나누는경우의수_factorial.executor": "Run",
     "Application.나머지구하기.executor": "Run",
     "Application.나이출력.executor": "Run",
+    "Application.네트워크.executor": "Debug",
+    "Application.단어변환.executor": "Run",
     "Application.대문자와소문자.executor": "Run",
     "Application.두수의곱.executor": "Run",
     "Application.두수의나눗셈.executor": "Run",
@@ -306,6 +312,7 @@
     "Application.배열회전시키기.executor": "Run",
     "Application.분수의덧셈.executor": "Run",
     "Application.삼각형의완성조건1.executor": "Run",
+    "Application.소인수분해.executor": "Debug",
     "Application.수들의합5.executor": "Run",
     "Application.순서쌍의개수.executor": "Run",
     "Application.숨어있는숫자의덧셈1.executor": "Run",
@@ -329,6 +336,7 @@
     "Application.짝수홀수개수.executor": "Run",
     "Application.최빈값구하기.executor": "Run",
     "Application.최빈값구하기HashMap.executor": "Run",
+    "Application.컨트롤제트.executor": "Run",
     "Application.타겟넘버.executor": "Run",
     "Application.특정문자제거하기.executor": "Run",
     "Application.평균.executor": "Run",
@@ -347,7 +355,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -377,8 +385,86 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="가위바위보" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.가위바위보" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="나머지구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.나머지구하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최빈값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.최빈값구하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="몫구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.몫구하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.아이스아메리카노" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -429,8 +515,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="문자반복출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.문자반복출력하기" />
+    <configuration name="두수의나눗셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.두수의나눗셈" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -442,8 +528,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="두수의나눗셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.두수의나눗셈" />
+    <configuration name="문자반복출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.문자반복출력하기" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -468,8 +554,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
+    <configuration name="나이출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.나이출력" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -481,8 +567,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="나이출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.나이출력" />
+    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -535,84 +621,6 @@
     </configuration>
     <configuration name="개미군단" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.개미군단" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="가위바위보" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.가위바위보" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="나머지구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.나머지구하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="최빈값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.최빈값구하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="몫구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.몫구하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.아이스아메리카노" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -812,7 +820,11 @@
       <workItem from="1721454607284" duration="598000" />
       <workItem from="1721898819604" duration="6602000" />
       <workItem from="1721951912085" duration="15169000" />
-      <workItem from="1722229764858" duration="7669000" />
+      <workItem from="1722229764858" duration="24550000" />
+      <workItem from="1722329022684" duration="6000" />
+      <workItem from="1722332428354" duration="143000" />
+      <workItem from="1722332578844" duration="2921000" />
+      <workItem from="1722340379278" duration="3206000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
@@ -946,6 +958,21 @@
           <line>39</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/graph/네트워크.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lv0/소인수분해.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lv0/소인수분해.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/cote/만들기1로_1463.java</url>
           <line>16</line>
@@ -954,6 +981,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/algorithm/graph/네트워크.java</url>
+          <line>20</line>
+          <properties class="algorithm.graph.네트워크" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
