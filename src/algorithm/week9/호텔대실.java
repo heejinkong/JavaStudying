@@ -13,16 +13,22 @@ public class 호텔대실 {
         });
 
         int room =1;
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        PriorityQueue<Integer> pq = new PriorityQueue<>(); // 대실 종료 시간 기준 오름차순 정렬
         for(int i=0; i<book_time.length; i++){
             int start = Integer.parseInt(book_time[i][0].split(":")[0]) * 60 + Integer.parseInt(book_time[i][0].split(":")[1]);
             int fin = Integer.parseInt(book_time[i][1].split(":")[0]) * 60 + Integer.parseInt(book_time[i][1].split(":")[1]);
+
             if(pq.isEmpty()) {
                 pq.add(fin);
             }
             else{
-                if(pq.peek()+10> start) room++;
-                else pq.poll();
+                //가장 빨리 비는 방의 종료시간 + 10 > 현재 예약 시작 시간
+                if(pq.peek()+10 > start) {
+                    room++;
+                }
+                else { // 기존 방 체크아웃 한 후 바로 사용할 수 있는 상태
+                    pq.poll();
+                }
 
                 pq.add(fin);
             }
