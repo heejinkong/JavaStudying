@@ -1,4 +1,4 @@
-package algorithm.graph;
+package algorithm.week9;
 
 public class 타겟넘버 {
     public static int answer;

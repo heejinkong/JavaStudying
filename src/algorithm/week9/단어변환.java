@@ -1,7 +1,4 @@
-package algorithm.graph;
-
-import java.util.ArrayDeque;
-import java.util.Queue;
+package algorithm.week9;
 
 public class 단어변환 {
     public static int nowMin;

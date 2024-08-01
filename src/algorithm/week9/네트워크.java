@@ -1,4 +1,4 @@
-package algorithm.graph;
+package algorithm.week9;
 
 public class 네트워크 {
     public static void main(String[] args) {
