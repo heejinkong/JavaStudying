@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/HS/week1/boj_개똥벌레.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/숨어있는숫자의덧셈2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/HS/week1/boj_3020.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/HS/week1/boj_개똥벌레.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/HS/week1/boj_개똥벌레.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,6 +244,7 @@
     "Application.boj15649_hj.executor": "Run",
     "Application.boj2293_hj.executor": "Run",
     "Application.boj9655_hj.executor": "Run",
+    "Application.boj_3020.executor": "Run",
     "Application.boj_개똥벌레.executor": "Run",
     "Application.example.executor": "Run",
     "Application.leet60.executor": "Run",
@@ -319,6 +322,7 @@
     "Application.수들의합5.executor": "Run",
     "Application.순서쌍의개수.executor": "Run",
     "Application.숨어있는숫자의덧셈1.executor": "Run",
+    "Application.숨어있는숫자의덧셈2.executor": "Run",
     "Application.숫자비교하기.executor": "Run",
     "Application.숫자의합.executor": "Run",
     "Application.숫자찾기.executor": "Run",
@@ -838,7 +842,7 @@
       <workItem from="1722395499760" duration="2628000" />
       <workItem from="1722472524318" duration="29661000" />
       <workItem from="1722579766430" duration="84714000" />
-      <workItem from="1723274814295" duration="12579000" />
+      <workItem from="1723274814295" duration="25705000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
