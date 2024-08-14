@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/week11/여행경로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/HS/week1/pgs_줄서는방법.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -272,6 +272,8 @@
     "Application.pgs42626_hj.executor": "Run",
     "Application.pgs60057_hj.executor": "Run",
     "Application.pgs76502_hj.executor": "Run",
+    "Application.pgs_줄서는방법.executor": "Debug",
+    "Application.pgs_줄서는방법_dp.executor": "Run",
     "Application.psg138982_hj.executor": "Run",
     "Application.psg138983_hj.executor": "Run",
     "Application.psg138984_hj.executor": "Run",
@@ -300,6 +302,7 @@
     "Application.두수의곱.executor": "Run",
     "Application.두수의나눗셈.executor": "Run",
     "Application.두수의차.executor": "Run",
+    "Application.등수매기기.executor": "Run",
     "Application.만들기1로_1463.executor": "Run",
     "Application.머쓱이보다키큰사람.executor": "Run",
     "Application.모스부호.executor": "Run",
@@ -841,7 +844,7 @@
       <workItem from="1722395499760" duration="2628000" />
       <workItem from="1722472524318" duration="29661000" />
       <workItem from="1722579766430" duration="84714000" />
-      <workItem from="1723274814295" duration="36301000" />
+      <workItem from="1723274814295" duration="62064000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
@@ -1007,18 +1010,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/algorithm/week11/여행경로.java</url>
-          <line>20</line>
+          <line>21</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/algorithm/week11/여행경로.java</url>
-          <line>22</line>
+          <line>23</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/algorithm/week11/여행경로.java</url>
-          <line>23</line>
+          <line>24</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lv0/등수매기기.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/HS/week1/pgs_줄서는방법.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/HS/week1/pgs_줄서는방법.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/HS/week1/pgs_줄서는방법.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/cote/만들기1로_1463.java</url>
@@ -1049,7 +1072,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/week11/여행경로.java</url>
-          <line>28</line>
+          <line>29</line>
           <properties class="algorithm.week11.여행경로" method="dfs">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
