@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/HS/week1/pgs_줄서는방법.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv0/저주의숫자3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,6 +337,7 @@
     "Application.완주하지못한선수.executor": "Debug",
     "Application.외계행성의나이.executor": "Run",
     "Application.인덱스바꾸기.executor": "Run",
+    "Application.저주의숫자3.executor": "Debug",
     "Application.점의위치구하기.executor": "Run",
     "Application.주몽_1940.executor": "Run",
     "Application.주사위의개수.executor": "Run",
@@ -844,7 +844,7 @@
       <workItem from="1722395499760" duration="2628000" />
       <workItem from="1722472524318" duration="29661000" />
       <workItem from="1722579766430" duration="84714000" />
-      <workItem from="1723274814295" duration="62064000" />
+      <workItem from="1723274814295" duration="65480000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
@@ -1078,6 +1078,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lv0/저주의숫자3.java</url>
+          <line>8</line>
+          <properties class="Lv0.저주의숫자3" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
