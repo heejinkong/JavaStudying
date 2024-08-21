@@ -401,110 +401,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="최빈값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.최빈값구하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="몫구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.몫구하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.아이스아메리카노" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="순서쌍의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.순서쌍의개수" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.외계행성의나이" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="모스부호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.모스부호" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="두수의나눗셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.두수의나눗셈" />
       <module name="JavaCoding" />
@@ -635,8 +531,112 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="나머지구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.나머지구하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최빈값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.최빈값구하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="몫구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.몫구하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.아이스아메리카노" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="순서쌍의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.순서쌍의개수" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.외계행성의나이" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="모스부호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.모스부호" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -845,7 +845,7 @@
       <workItem from="1722472524318" duration="29661000" />
       <workItem from="1722579766430" duration="84714000" />
       <workItem from="1723274814295" duration="96423000" />
-      <workItem from="1724037603347" duration="10452000" />
+      <workItem from="1724037603347" duration="28859000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>

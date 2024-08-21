@@ -5,6 +5,8 @@ class Solution {
     public int solution(int n, int s, int a, int b, int[][] fares) {
         Map<Integer, List<Edge>> graph = new HashMap<>();
         for(int i = 1; i <= n; i++){
+
+            
             graph.put(i, new ArrayList<>());
         }
         for(int[] fare : fares){
