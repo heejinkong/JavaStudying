@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/heap/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/dp/pgs_동전교환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/heap/leetCode_NetworkDelayTime/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/heap/pgs_디스크컨트롤러.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/heap/pgs_합승택시요금.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/week11/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/week11/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,6 +276,7 @@
     "Application.pgs42626_hj.executor": "Run",
     "Application.pgs60057_hj.executor": "Run",
     "Application.pgs76502_hj.executor": "Run",
+    "Application.pgs_디스크컨트롤러.executor": "Debug",
     "Application.pgs_줄서는방법.executor": "Debug",
     "Application.pgs_줄서는방법_dp.executor": "Run",
     "Application.psg138982_hj.executor": "Run",
@@ -850,7 +853,7 @@
       <workItem from="1723274814295" duration="96423000" />
       <workItem from="1724037603347" duration="28859000" />
       <workItem from="1724247474858" duration="1249000" />
-      <workItem from="1724588138133" duration="1181000" />
+      <workItem from="1724588138133" duration="24196000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
