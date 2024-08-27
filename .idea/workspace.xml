@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/dp/pgs_동전교환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/heap/leetCode_NetworkDelayTime/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/heap/pgs_디스크컨트롤러.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/heap/pgs_합승택시요금.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/practice/pgs_동전교환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/practice/pgs_최소비용으로계단오르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,9 +274,13 @@
     "Application.pgs42626_hj.executor": "Run",
     "Application.pgs60057_hj.executor": "Run",
     "Application.pgs76502_hj.executor": "Run",
+    "Application.pgs_네트워트.executor": "Run",
+    "Application.pgs_동전교환.executor": "Debug",
     "Application.pgs_디스크컨트롤러.executor": "Debug",
+    "Application.pgs_소수찾기.executor": "Debug",
     "Application.pgs_줄서는방법.executor": "Debug",
     "Application.pgs_줄서는방법_dp.executor": "Run",
+    "Application.pgs_최소비용으로계단오르기.executor": "Run",
     "Application.psg138982_hj.executor": "Run",
     "Application.psg138983_hj.executor": "Run",
     "Application.psg138984_hj.executor": "Run",
@@ -377,7 +379,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -853,7 +855,7 @@
       <workItem from="1723274814295" duration="96423000" />
       <workItem from="1724037603347" duration="28859000" />
       <workItem from="1724247474858" duration="1249000" />
-      <workItem from="1724588138133" duration="24196000" />
+      <workItem from="1724588138133" duration="52225000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
@@ -1052,6 +1054,11 @@
           <line>23</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/practice/pgs_네트워트.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/cote/만들기1로_1463.java</url>
           <line>16</line>
@@ -1096,6 +1103,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/algorithm/practice/pgs_네트워트.java</url>
+          <line>9</line>
+          <properties class="algorithm.practice.pgs_네트워트" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/algorithm/practice/pgs_네트워트.java</url>
+          <line>23</line>
+          <properties class="algorithm.practice.pgs_네트워트" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/algorithm/practice/pgs_소수찾기.java</url>
+          <line>32</line>
+          <properties class="algorithm.practice.pgs_소수찾기" method="backtrack">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/algorithm/practice/pgs_동전교환.java</url>
+          <line>13</line>
+          <properties class="algorithm.practice.pgs_동전교환" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
