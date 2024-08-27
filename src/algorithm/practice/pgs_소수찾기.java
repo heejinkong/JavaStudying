@@ -17,8 +17,10 @@ public class pgs_소수찾기 {
         for(int i = 0; i < numArr.length; i++) {
             numArr[i] = Integer.parseInt(String.valueOf(numbers.charAt(i)));
         }
+
         set = new HashSet<>();
-        backtrack(numArr, new boolean[numbers.length()], "");
+        visited = new boolean[numArr.length];
+        dfs(numArr, visited , "");
 
         int answer = 0;
         for(int num : set) {
@@ -28,9 +30,10 @@ public class pgs_소수찾기 {
         }
         return answer;
 
+
     }
 
-    public static void backtrack(int[] numArr, boolean[] visited, String str) {
+    public static void dfs(int[] numArr, boolean[] visited, String str) {
         if(!str.isEmpty()) {
             set.add(Integer.parseInt(str));
         }
@@ -38,7 +41,7 @@ public class pgs_소수찾기 {
         for(int i = 0; i < numArr.length; i++) {
             if(!visited[i]) {
                 visited[i] = true;
-                backtrack(numArr, visited, str + numArr[i]);
+                dfs(numArr, visited, str + numArr[i]);
                 visited[i] = false;
             }
         }
