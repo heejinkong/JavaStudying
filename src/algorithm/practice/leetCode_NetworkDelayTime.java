@@ -11,7 +11,7 @@ public class leetCode_NetworkDelayTime {
 
         // 1. 그래프 초기화
         Map<Integer, List<Edge>> graph = new HashMap<>();
-        for(int i = 1; i <= n; i++) {
+        for(int i = 1; i < n + 1; i++) {
             graph.put(i, new ArrayList<>());
         }
 
@@ -64,7 +64,6 @@ public class leetCode_NetworkDelayTime {
     }
 }
 
-    class Edge implements Comparable<Edge> {
 class Edge implements Comparable<Edge> {
     int node;
     int cost;
