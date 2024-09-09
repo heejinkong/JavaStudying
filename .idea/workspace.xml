@@ -5,10 +5,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/practice/pgs_전력망을둘로나누기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/practice/pgs_합승택시요금.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv1/약수의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv1/짝수와홀수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv1/평균구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/practice/leetCode_NetworkDelayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/practice/leetCode_NetworkDelayTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/A로B만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/A로B만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/OX퀴즈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/OX퀴즈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/k의개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/k의개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/n의배수고르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/n의배수고르기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/n차원으로만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/n차원으로만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/가까운수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/가까운수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/가위바위보.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/가위바위보.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/가장큰수찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/가장큰수찾기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/각도기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/각도기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/개미군단.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/개미군단.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/공던지기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/공던지기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/구슬을나누는경우의수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/구슬을나누는경우의수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/구슬을나누는경우의수_factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/구슬을나누는경우의수_factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/나머지구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/나머지구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/나이출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/나이출력.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/다항더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/다항더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/대문자와소문자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/대문자와소문자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/두수의곱.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/두수의곱.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/두수의나눗셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/두수의나눗셈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/두수의차.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/두수의차.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/등수매기기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/등수매기기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/로그인성공.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/로그인성공.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/머쓱이보다키큰사람.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/머쓱이보다키큰사람.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/모스부호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/모스부호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/모음제거.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/모음제거.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/몫구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/몫구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/문자계산하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/문자계산하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/문자반복출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/문자반복출력하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/문자열뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/문자열뒤집기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/문자열안에문자열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/문자열안에문자열.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/배열두배만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/배열두배만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/배열뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/배열뒤집기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/배열의유사도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/배열의유사도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/배열의평균값.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/배열의평균값.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/배열자르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/배열자르기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/배열회전시키기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/배열회전시키기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/분수의덧셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/분수의덧셈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/삼각형의완성조건1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/삼각형의완성조건1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/삼육구게임.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/삼육구게임.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/세균증식.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/세균증식.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/소인수분해.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/소인수분해.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/순서쌍의개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/순서쌍의개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/숨어있는숫자의덧셈1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/숨어있는숫자의덧셈1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/숨어있는숫자의덧셈2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/숨어있는숫자의덧셈2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/숫자비교하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/숫자비교하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/숫자찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/숫자찾기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/아이스아메리카노.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/아이스아메리카노.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/암호해독.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/암호해독.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/약수구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/약수구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/양꼬치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/양꼬치.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/영어가싫어요.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/영어가싫어요.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/옷가게할인.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/옷가게할인.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/외계어사전.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/외계어사전.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/외계행성의나이.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/외계행성의나이.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/이진수더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/이진수더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/인덱스바꾸기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/인덱스바꾸기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/자릿수더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/자릿수더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/잘라서배열로저장하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/잘라서배열로저장하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/저주의숫자3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/저주의숫자3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/점의위치구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/점의위치구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/제곱수판별하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/제곱수판별하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/종이자르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/종이자르기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/주사위의개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/주사위의개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/중복된문자제거.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/중복된문자제거.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/중복된숫자개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/중복된숫자개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/중앙값구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/중앙값구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/직각삼각형출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/직각삼각형출력하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/직사각형넓이구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/직사각형넓이구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/진료순서정하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/진료순서정하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/짝수는싫어요.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/짝수는싫어요.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/짝수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/짝수의합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/짝수홀수개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/짝수홀수개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/최댓값만들기1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/최댓값만들기1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/최댓값만들기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/최댓값만들기2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/최빈값구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/최빈값구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/최빈값구하기HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/최빈값구하기HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/치킨쿠폰.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/치킨쿠폰.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/캐릭터의좌표.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/캐릭터의좌표.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/컨트롤제트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/컨트롤제트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/특정문자제거하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/특정문자제거하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/편지.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/편지.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/피자나눠먹기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/피자나눠먹기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/피자나눠먹기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/피자나눠먹기2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/피자나눠먹기3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/피자나눠먹기3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/한번만등한문자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/한번만등한문자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv0/합성수찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lv0/합성수찾기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,7 +489,7 @@
   </component>
   <component name="RunManager">
     <configuration name="진료순서정하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.진료순서정하기" />
+      <option name="MAIN_CLASS_NAME" value="lv0.진료순서정하기" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -865,6 +952,7 @@
       <workItem from="1724823859053" duration="145000" />
       <workItem from="1724824179341" duration="33366000" />
       <workItem from="1724947464507" duration="12846000" />
+      <workItem from="1725878709130" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
@@ -974,17 +1062,17 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lv0/인덱스바꾸기.java</url>
+          <url>file://$PROJECT_DIR$/src/lv0/인덱스바꾸기.java</url>
           <line>21</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lv0/인덱스바꾸기.java</url>
+          <url>file://$PROJECT_DIR$/src/lv0/인덱스바꾸기.java</url>
           <line>22</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lv0/인덱스바꾸기.java</url>
+          <url>file://$PROJECT_DIR$/src/lv0/인덱스바꾸기.java</url>
           <line>24</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
@@ -999,12 +1087,12 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lv0/소인수분해.java</url>
+          <url>file://$PROJECT_DIR$/src/lv0/소인수분해.java</url>
           <line>12</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lv0/소인수분해.java</url>
+          <url>file://$PROJECT_DIR$/src/lv0/소인수분해.java</url>
           <line>22</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
@@ -1044,7 +1132,7 @@
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lv0/등수매기기.java</url>
+          <url>file://$PROJECT_DIR$/src/lv0/등수매기기.java</url>
           <line>17</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
@@ -1105,9 +1193,9 @@
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lv0/저주의숫자3.java</url>
+          <url>file://$PROJECT_DIR$/src/lv0/저주의숫자3.java</url>
           <line>8</line>
-          <properties class="Lv0.저주의숫자3" method="solution">
+          <properties class="lv0.저주의숫자3" method="solution">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
