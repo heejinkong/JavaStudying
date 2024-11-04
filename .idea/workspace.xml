@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/SW/D2/D2_1961.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SW/D2/D2_1961_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SW/D2/D2_1959.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SW/D2/D2_1974.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SW/D2/D2_1974.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lv0/특이한정렬.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +114,7 @@
     "Application.D2_1926.executor": "Run",
     "Application.D2_1952_2.executor": "Run",
     "Application.D2_1954.executor": "Run",
+    "Application.D2_1959.executor": "Run",
     "Application.D2_1961.executor": "Run",
     "Application.D2_1961_2.executor": "Run",
     "Application.D2_1974.executor": "Run",
@@ -897,7 +896,7 @@
       <workItem from="1728999421236" duration="1947000" />
       <workItem from="1729574657368" duration="5868000" />
       <workItem from="1729585283339" duration="5908000" />
-      <workItem from="1730267349528" duration="51372000" />
+      <workItem from="1730267349528" duration="55310000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
