@@ -40,22 +40,25 @@ public class D2_1974 {
                 continue;
             }
 
-            for(int i = 1; i <= 3; i++) {
-                int squareSum = 0;
-                for(int j = (i - 1) * 3; j < i * 3; j++) {
-                    for(int k = (i - 1) * 3; k < i * 3; k++) {
-                        squareSum += map[j][k];
+            for (int i = 0; i < 3; i++) {
+                for (int j = 0; j < 3; j++) {
+                    int squareSum = 0;
+                    for (int x = i * 3; x < (i + 1) * 3; x++) {
+                        for (int y = j * 3; y < (j + 1) * 3; y++) {
+                            squareSum += map[x][y];
+                        }
+                    }
+
+                    if (squareSum != 45) {
+                        answer = 0;
+                        break;
                     }
                 }
-
-                if(squareSum != 45) {
-                    answer = 0;
-                    break;
-                }
-                if(answer == 0) {
+                if (answer == 0) {
                     break;
                 }
             }
+
             System.out.println("#" + test_case + " " + answer);
 
         }
