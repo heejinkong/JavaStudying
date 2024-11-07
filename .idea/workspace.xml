@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/SW/D2/D2_1986.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SW/D2/D2_1970.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lv0/특이한정렬.java" beforeDir="false" />
     </list>
@@ -121,7 +121,7 @@
     "Application.D2_1974_2.executor": "Run",
     "Application.D2_1979.executor": "Run",
     "Application.D2_1983.executor": "Debug",
-    "Application.D2_1986.executor": "Debug",
+    "Application.D2_1986.executor": "Run",
     "Application.D2_1989.executor": "Run",
     "Application.D2_2001.executor": "Run",
     "Application.D2_2001_DP.executor": "Run",
@@ -908,7 +908,7 @@
       <workItem from="1730809488213" duration="65000" />
       <workItem from="1730809566576" duration="135000" />
       <workItem from="1730810161166" duration="239000" />
-      <workItem from="1730810409392" duration="13842000" />
+      <workItem from="1730810409392" duration="15076000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
