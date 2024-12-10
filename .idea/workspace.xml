@@ -5,10 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/lv1/pgs_12903.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lv1/pgs_12922.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lv1/pgs_70128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/construct/ConstructMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/construct/MemberConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/construct/MemberDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/construct/MemberDefaultMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/construct/ex/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/construct/ex/BookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/pack/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/pack/PackageMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/pack/PackageMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_base/pack/a/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/ClassStart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/ClassStart2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/ClassStart3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/ClassStart4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/ClassStart5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/classEx/movieReviewEx/MovieReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/classEx/movieReviewEx/MovieReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/classEx/movieReviewEx/MovieReviewMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/classEx/movieReviewEx/MovieReviewMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/classEx/movieReviewEx/MovieReviewMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/classEx/movieReviewEx/MovieReviewMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/classEx/productOrderEx/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/classEx/productOrderEx/ProductOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/classEx/productOrderEx/ProductOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/class1/classEx/productOrderEx/ProductOrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construct/MemberInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/construct/MemberInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/construct/MethodInitMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construct/MethodInitMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/construct/MethodInitMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construct/MethodInitMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/construct/MethodInitMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/MusicPlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/MusicPlayerMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/MusicPlayerMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/MusicPlayerMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/MusicPlayerMain4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ValueData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/ValueData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ValueDataMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/ValueDataMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/ValueObjectMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/oopEx/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/oopEx/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/oopEx/AccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/oopEx/AccountMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/oopEx/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/oopEx/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/oopEx/RectangleOopMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/oopEx/RectangleOopMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/oopEx/RectangleProceduralMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/oop1/oopEx/RectangleProceduralMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/BigData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/BigData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/InitData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/InitData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/InitMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/InitMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/Method1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/Method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/MethodChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/MethodChange1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/MethodChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/MethodChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/NullMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/NullMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/NullMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/NullMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/NullMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/NullMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/NullMain4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/NullMain4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/VarChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/VarChange1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/VarChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/VarChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/refEx/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/refEx/ProductOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/refEx/ProductOrderMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/refEx/ProductOrderMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ref/refEx/ProductOrderMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_base/ref/refEx/ProductOrderMain3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +138,7 @@
     "Application.ArrayEx9.executor": "Run",
     "Application.Assign1.executor": "Run",
     "Application.A로B만들기.executor": "Run",
+    "Application.BookMain.executor": "Run",
     "Application.Break1.executor": "Run",
     "Application.Break2.executor": "Run",
     "Application.Break3.executor": "Run",
@@ -108,6 +163,7 @@
     "Application.CondEx7.executor": "Run",
     "Application.CondOp1.executor": "Run",
     "Application.CondOp2.executor": "Run",
+    "Application.ConstructMain2.executor": "Run",
     "Application.Continue1.executor": "Run",
     "Application.D2_1204.executor": "Run",
     "Application.D2_1204_2.executor": "Run",
@@ -158,6 +214,7 @@
     "Application.Logical1.executor": "Run",
     "Application.Logical2.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MemberDefaultMain.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method1Ref.executor": "Run",
     "Application.Method2.executor": "Run",
@@ -202,6 +259,7 @@
     "Application.Overloading1.executor": "Run",
     "Application.Overloading2.executor": "Run",
     "Application.Overloading3.executor": "Run",
+    "Application.PackageMain2.executor": "Run",
     "Application.Permutation.executor": "Run",
     "Application.PriorityQueueEx.executor": "Run",
     "Application.ProductOrderMain.executor": "Run",
@@ -430,7 +488,7 @@
       <recent name="method" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PackageMain2">
     <configuration name="진료순서정하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lv0.진료순서정하기" />
       <module name="JavaCoding" />
@@ -470,103 +528,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="짝수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.짝수의합" />
+    <configuration name="PackageMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_base.pack.PackageMain2" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문자반복출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.문자반복출력하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="가위바위보" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.가위바위보" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="숫자비교하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.숫자비교하기" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="배열의평균값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.배열의평균값" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="모음제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.모음제거" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
+          <option name="PATTERN" value="java_base.pack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -704,6 +671,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="짝수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.짝수의합" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="모스부호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.모스부호" />
       <module name="JavaCoding" />
@@ -717,8 +697,100 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="문자반복출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.문자반복출력하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="가위바위보" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.가위바위보" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자비교하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.숫자비교하기" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="중복된숫자개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.중복된숫자개수" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="두수의곱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.두수의곱" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="배열의평균값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.배열의평균값" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="모음제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.모음제거" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PackageMain2" />
         <item itemvalue="Application.D2_1966" />
         <item itemvalue="Application.D2_1859" />
         <item itemvalue="Application.진료순서정하기" />
@@ -942,6 +1014,7 @@
       <workItem from="1731808511179" duration="4069000" />
       <workItem from="1731833792386" duration="12000" />
       <workItem from="1732690049206" duration="10439000" />
+      <workItem from="1733805562464" duration="4848000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
