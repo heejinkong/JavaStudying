@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="603cd43b-17c0-4cd5-a9a5-1cb60187aee8" name="Changes" comment="2장 실습문제">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/stack/StackEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/stack/StackEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/stack/StackEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/list/ListEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/list/ListEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/QueueEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/QueueEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/QueueEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/queue/QueueEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/stack/StackEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/stack/StackEx7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +161,8 @@
     "Application.If5.executor": "Run",
     "Application.If6.executor": "Run",
     "Application.InitMain.executor": "Run",
+    "Application.ListEx1.executor": "Run",
+    "Application.ListEx2.executor": "Run",
     "Application.Logical1.executor": "Run",
     "Application.Logical2.executor": "Run",
     "Application.Main.executor": "Run",
@@ -213,6 +219,10 @@
     "Application.ProductOrderMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.ProductOrderMain3.executor": "Run",
+    "Application.QueueEx1.executor": "Run",
+    "Application.QueueEx2.executor": "Run",
+    "Application.QueueEx3.executor": "Debug",
+    "Application.QueueEx4.executor": "Run",
     "Application.RectangleOopMain.executor": "Run",
     "Application.Scanner1.executor": "Run",
     "Application.Scanner2.executor": "Run",
@@ -496,8 +506,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="모음제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.모음제거" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="순서쌍의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.순서쌍의개수" />
+      <module name="JavaCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="개미군단" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.개미군단" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -587,8 +636,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.외계행성의나이" />
+    <configuration name="짝수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.짝수의합" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -600,8 +649,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="짝수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.짝수의합" />
+    <configuration name="외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0.외계행성의나이" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -693,45 +742,6 @@
     </configuration>
     <configuration name="배열의평균값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv0.배열의평균값" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.암호해독" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="모음제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.모음제거" />
-      <module name="JavaCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="개미군단" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv0.개미군단" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
@@ -974,7 +984,9 @@
       <workItem from="1734015036623" duration="37007000" />
       <workItem from="1734423729079" duration="1899000" />
       <workItem from="1734443346664" duration="3650000" />
-      <workItem from="1734513679269" duration="6199000" />
+      <workItem from="1734513679269" duration="13254000" />
+      <workItem from="1734592197931" duration="2090000" />
+      <workItem from="1734599513153" duration="6901000" />
     </task>
     <task id="LOCAL-00001" summary="2장 실습문제">
       <created>1677923112945</created>
